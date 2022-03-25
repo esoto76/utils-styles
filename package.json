@@ -1,0 +1,17 @@
+{
+  "name": "@esoto/utils-styles",
+  "version": "0.0.1-alpha.1",
+  "description": "esoto style utilities",
+  "author": "Eric Sotomayor <elpasocolorartist@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoto76/utils-styles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esoto76/utils-styles/issues"
+  },
+  "homepage": "https://github.com/esoto76/utils-styles#readme"
+}
